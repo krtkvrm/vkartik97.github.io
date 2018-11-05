@@ -3,123 +3,123 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/projects/</loc>
+    <loc>https://kartik.xyz/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/blog/load-balancer-using-nginx/</loc>
+    <loc>https://kartik.xyz/blog/load-balancer-using-nginx/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/blog/goisforlovers/</loc>
+    <loc>https://kartik.xyz/blog/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/blog/hugoisforlovers/</loc>
+    <loc>https://kartik.xyz/blog/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/blog/migrate-from-jekyll/</loc>
+    <loc>https://kartik.xyz/blog/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/blog/</loc>
+    <loc>https://kartik.xyz/blog/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://kartik.xyz/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/development/</loc>
+    <loc>https://kartik.xyz/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/categories/development/</loc>
+    <loc>https://kartik.xyz/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/go/</loc>
+    <loc>https://kartik.xyz/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/golang/</loc>
+    <loc>https://kartik.xyz/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/categories/golang/</loc>
+    <loc>https://kartik.xyz/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/hugo/</loc>
+    <loc>https://kartik.xyz/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://kartik.xyz/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/projects/</loc>
+    <loc>https://kartik.xyz/tags/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/categories/projects/</loc>
+    <loc>https://kartik.xyz/categories/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/stack/</loc>
+    <loc>https://kartik.xyz/tags/stack/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/categories/stack/</loc>
+    <loc>https://kartik.xyz/categories/stack/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://kartik.xyz/tags/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/stack/</loc>
+    <loc>https://kartik.xyz/stack/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/tags/templates/</loc>
+    <loc>https://kartik.xyz/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/themes/</loc>
+    <loc>https://kartik.xyz/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stack on Kartik Verma</title>
-    <link>https://example.com/categories/stack/</link>
+    <link>https://kartik.xyz/categories/stack/</link>
     <description>Recent content in Stack on Kartik Verma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="https://example.com/categories/stack/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kartik.xyz/categories/stack/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tech Stack</title>
-      <link>https://example.com/stack/</link>
+      <link>https://kartik.xyz/stack/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/stack/</guid>
+      <guid>https://kartik.xyz/stack/</guid>
       <description></description>
     </item>
     
