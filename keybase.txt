@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/vkartik97
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kartik.xyz
+  * I am vkartik97 (https://keybase.io/vkartik97) on keybase.
+  * I have a public key ASBkDjqYnLcV-jO32BFQe-mh7xhs4bFaYR9cXInfZS8AHAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120640e3a989cb715fa33b7d811507be9a1ef186ce1b15a611f5c5c89df652f001c0a",
+      "host": "keybase.io",
+      "kid": "0120640e3a989cb715fa33b7d811507be9a1ef186ce1b15a611f5c5c89df652f001c0a",
+      "uid": "8e55156431d16faaac3230d98e4e1d19",
+      "username": "vkartik97"
+    },
+    "merkle_root": {
+      "ctime": 1554920670,
+      "hash": "6be12783f3ea12fb87efd670c4ae55dfa502bb69859545ef767d0018d35f949a41d2ffbb8ad7b16e2396ba41705cb587acfa38aea04a5a999b89a55aadf73bb1",
+      "hash_meta": "390173bb329b5885bd1383bf8146f9286e3d3ac332bd2b481edaefa4653dc421",
+      "seqno": 5137043
+    },
+    "service": {
+      "entropy": "MzOeGty3HxQEj/tfp/VeL8iX",
+      "hostname": "kartik.xyz",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.2.1"
+  },
+  "ctime": 1554920682,
+  "expire_in": 504576000,
+  "prev": "34639309d0e4013a36689833f343f3607183e5647822841a44948ea06cebc5de",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgZA46mJy3Ffozt9gRUHvpoe8YbOGxWmEfXFyJ32UvABwKp3BheWxvYWTESpcCEsQgNGOTCdDkATo2aJgz80PzYHGD5WR4IoQaRJSOoGzrxd7EIJP1gOwM1Ph/pgdGAG81TNO1D0C0k3jyGZTmUHsx3cdFAgHCo3NpZ8RA19A2Vzy25iOR+4R4LLOrxD0KklAVzxgQB6eo4vcYT/k8JMqRiupPeq1NsW1dV2kaDx+uU6eFbmJPByyL7hjsAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOmi/0905fr8JueNJ3OwqksV4fyzEOZbOegxQqvRTezGo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/vkartik97
+
+==================================================================
